@@ -3,4 +3,4 @@
     materialized = 'view'
 )}}
 
-SELECT * FROM {{ source('RAW', 'CUSTOMER') }}
+SELECT * FROM "MYDB"."RAW"."CUSTOMER"
