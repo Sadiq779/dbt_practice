@@ -3,5 +3,5 @@
     materialized = 'view'
 )}}
 
-SELECT * FROM "MYDB"."RAW"."CUSTOMER"
+SELECT * FROM "MYDB"."RAW"."NATION"
 
